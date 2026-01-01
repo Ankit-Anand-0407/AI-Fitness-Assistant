@@ -19,7 +19,7 @@ except FileNotFoundError:
 if API_KEY != "KEY_NOT_FOUND":
     genai.configure(api_key=API_KEY)
     # Using the flash model for faster responses
-    model = genai.GenerativeModel('models/gemini-1.5-flash')
+    model = genai.GenerativeModel('models/gemini-2.0-flash')
 else:
     model = None
 
