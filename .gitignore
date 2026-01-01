@@ -1,0 +1,16 @@
+# Ignore python cache
+__pycache__/
+*.py[cod]
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore Database (Optional - usually we don't upload local DBs)
+*.db
+
+# Ignore Virtual Environments
+venv/
+env/
+
+# SAFETY: Ignore the API key file if your repo is PUBLIC
+.streamlit/API.txt

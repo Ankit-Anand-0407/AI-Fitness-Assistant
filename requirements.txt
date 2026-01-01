@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+mediapipe
+pandas
+numpy
+streamlit-lottie
+requests
+sympy
+google-generativeai

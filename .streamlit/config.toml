@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#F63366"  # The color of buttons and sliders (Energetic Red/Pink)
+backgroundColor = "#0E1117" # Main background (Dark Grey)
+secondaryBackgroundColor = "#262730" # Sidebar and card background
+textColor = "#FAFAFA" # Main text color (White)
+font = "sans serif" # Clean modern font
